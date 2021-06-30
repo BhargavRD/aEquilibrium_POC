@@ -2,11 +2,11 @@
 
 Below Technologies and tools used for automation:
 
-Selenium
-Java
-TestNG
-Maven
-Page Object Model (Design Pattern)
+1. Selenium
+2. Java
+3. TestNG
+4. Maven
+5. Page Object Model (Design Pattern)
 
 1. Clone the project and import in to any IDE(for Ex: Eclipse)
 2. Open the file testNG.xml 
