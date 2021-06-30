@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SauceDemo Automation Suite" duration-ms="17053" started-at="2021-06-30T16:05:24Z" finished-at="2021-06-30T16:05:41Z">
+    <groups>
+    </groups>
+    <test name="Automation_Test_Suite" duration-ms="17053" started-at="2021-06-30T16:05:24Z" finished-at="2021-06-30T16:05:41Z">
+      <class name="com.tests.SauceDemoUI_Test">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="initialization" is-config="true" duration-ms="13140" started-at="2021-06-30T16:05:24Z" finished-at="2021-06-30T16:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="negative_NoInput()[pri:0, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="negative_NoInput" duration-ms="763" started-at="2021-06-30T16:05:37Z" finished-at="2021-06-30T16:05:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negative_NoInput -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="tearDown" is-config="true" duration-ms="3" started-at="2021-06-30T16:05:38Z" finished-at="2021-06-30T16:05:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=negative_NoInput status=SUCCESS method=SauceDemoUI_Test.negative_NoInput()[pri:0, instance:com.tests.SauceDemoUI_Test@1fffcd7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="negative_onlyUname_input()[pri:1, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="negative_onlyUname_input" duration-ms="686" started-at="2021-06-30T16:05:38Z" finished-at="2021-06-30T16:05:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negative_onlyUname_input -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-06-30T16:05:38Z" finished-at="2021-06-30T16:05:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=negative_onlyUname_input status=SUCCESS method=SauceDemoUI_Test.negative_onlyUname_input()[pri:1, instance:com.tests.SauceDemoUI_Test@1fffcd7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="negative_Uname_input_OnlyCharas()[pri:2, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="negative_Uname_input_OnlyCharas" duration-ms="356" started-at="2021-06-30T16:05:38Z" finished-at="2021-06-30T16:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negative_Uname_input_OnlyCharas -->
+        <test-method status="PASS" signature="negative_Uname_input_OnlySpl_Chars()[pri:3, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="negative_Uname_input_OnlySpl_Chars" duration-ms="220" started-at="2021-06-30T16:05:39Z" finished-at="2021-06-30T16:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negative_Uname_input_OnlySpl_Chars -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-06-30T16:05:39Z" finished-at="2021-06-30T16:05:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=negative_Uname_input_OnlyCharas status=SUCCESS method=SauceDemoUI_Test.negative_Uname_input_OnlyCharas()[pri:2, instance:com.tests.SauceDemoUI_Test@1fffcd7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="negative_Uname_input_Only_Numericals()[pri:4, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="negative_Uname_input_Only_Numericals" duration-ms="246" started-at="2021-06-30T16:05:39Z" finished-at="2021-06-30T16:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negative_Uname_input_Only_Numericals -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-06-30T16:05:39Z" finished-at="2021-06-30T16:05:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=negative_Uname_input_OnlySpl_Chars status=SUCCESS method=SauceDemoUI_Test.negative_Uname_input_OnlySpl_Chars()[pri:3, instance:com.tests.SauceDemoUI_Test@1fffcd7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-06-30T16:05:39Z" finished-at="2021-06-30T16:05:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=negative_Uname_input_Only_Numericals status=SUCCESS method=SauceDemoUI_Test.negative_Uname_input_Only_Numericals()[pri:4, instance:com.tests.SauceDemoUI_Test@1fffcd7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="negativeTest_Username_input_Numericals_and_SpecialChars()[pri:5, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="negativeTest_Username_input_Numericals_and_SpecialChars" duration-ms="245" started-at="2021-06-30T16:05:39Z" finished-at="2021-06-30T16:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeTest_Username_input_Numericals_and_SpecialChars -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-06-30T16:05:39Z" finished-at="2021-06-30T16:05:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=negativeTest_Username_input_Numericals_and_SpecialChars status=SUCCESS method=SauceDemoUI_Test.negativeTest_Username_input_Numericals_and_SpecialChars()[pri:5, instance:com.tests.SauceDemoUI_Test@1fffcd7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.tests.SauceDemoUI_Test@1fffcd7]" name="quit" is-config="true" duration-ms="1343" started-at="2021-06-30T16:05:39Z" finished-at="2021-06-30T16:05:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.tests.SauceDemoUI_Test -->
+    </test> <!-- Automation_Test_Suite -->
+  </suite> <!-- SauceDemo Automation Suite -->
+</testng-results>
