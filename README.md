@@ -8,8 +8,8 @@ TestNG
 Maven
 Page Object Model (Design Pattern)
 
-Clone the project and import in to any IDE(for Ex: Eclipse)
-Open the file testNG.xml 
-We need to have testNG plugin installed on the IDE before we execute the below step
-Right click on the file testNG.xml and run as-> TestNG Suite
+1. Clone the project and import in to any IDE(for Ex: Eclipse)
+2. Open the file testNG.xml 
+3. We need to have testNG plugin installed on the IDE before we execute the below step
+4. Right click on the file testNG.xml and run as-> TestNG Suite
 
